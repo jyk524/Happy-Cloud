@@ -48,4 +48,3 @@ The user is then able to click on the "generate cloud button" to get their perso
   - **Mike HABER** -- michaeladam.haber@gmail.com
   - **James KIM** -- jyk524@gmail.com
   - **Jessica PEREZ** -- 1jessicaperez@gmail.com
-  - **David WHITE WOLF** -- MkarurosuN@gmail.com
